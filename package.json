@@ -5,8 +5,8 @@
       "/Users/user/WebstormProjects/"
     ]
   ],
-  "_from": "dom7@2.1.3",
-  "_id": "dom7@2.1.3",
+  "_from": "dom7",
+  "_id": "dom7",
   "_inBundle": false,
   "_integrity": "sha512-QTxHHDox+M6ZFz1zHPAHZKI3JOHY5iY4i9BK2uctlggxKQwRhO3q3HHFq1BKsT25Bm/ySSj70K6Wk/G4bs9rMQ==",
   "_location": "/dom7",
@@ -14,7 +14,7 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "dom7@2.1.3",
+    "raw": "dom7",
     "name": "dom7",
     "escapedName": "dom7",
     "rawSpec": "2.1.3",
